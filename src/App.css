@@ -1,0 +1,8 @@
+.app {
+  background-image: linear-gradient(to right, #141E30, #243B55);
+  width: 100vw;
+}
+
+.results::-webkit-scrollbar {
+  display: none;
+}

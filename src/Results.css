@@ -1,0 +1,10 @@
+.results > div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.results::-webkit-scrollbar {
+    display: none;
+}
