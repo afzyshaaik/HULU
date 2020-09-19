@@ -1,1 +1,64 @@
-# HULU
+# HULU CLONE
+🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆🎆
+-----------------------------------------------------------------------------
+
+LANGUAGE USED:JSX,CSS
+
+
+FRAMEWORK AND FRONTEND: REACTJS
+
+BACKEND AND HOSTING:FIREBASE
+
+
+
+------------------------------------------------------------------------------
+
+DESCRIPTION:
+
+
+THIS IS THE HULU CLONE MADE WITH REACTJS FRAMEWORK AND SEGREGATED INTO COMPONENTS  IN THE SRC FOLDER 
+
+
+
+FOR MORE UI ICONS I HAVE USED MATERIALUI FOR BUTTONS 
+
+
+VISIT MATERIALUI WEBSITE AND INSTALL IN YOUR TERMINAL TO USE IT 
+
+
+API FO THIS PROJECT IS INVOKED BY THE WEBSITE CALLED MOVIEDATABASE WEBSITE
+
+FIREBASE IS USED IN THIS PROJECT FOR HOSTING 
+
+
+COLOR PALETTE USED:  
+
+
+Black                          
+RGB: 0 0 0
+
+CMYK: 63 62 58 94
+
+HEX: #151515
+
+PMS: Black C
+
+
+Green
+RGB: 28 231 131
+
+CMYK: 76 0 70 0
+
+HEX: #1ce783
+
+PMS: 7479
+
+
+
+
+
+
+
+
+
+
